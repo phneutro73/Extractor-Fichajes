@@ -14,7 +14,11 @@ También permite **copiar o descargar el CSV** con el resumen diario y el **gran
    fichajes-ext/
    ├── manifest.json
    ├── content.js
-   └── README.md
+   ├── README.md
+   └── icons/
+       ├── icon16.png
+       ├── icon48.png
+       └── icon128.png
    ```
 
 2. Abre Chrome y escribe en la barra de direcciones:
