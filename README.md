@@ -31,7 +31,7 @@ También permite **copiar o descargar el CSV** con el resumen diario y el **gran
 
 4. Pulsa el botón **“Cargar descomprimida”**.
 
-5. Selecciona la carpeta `fichajes-ext/`.
+5. Selecciona la carpeta donde lo hayas descargado (Usa un nombre descriptivo para la carpeta y guarda en un lugar seguro para evitar borrados accidentales).
 
 6. Asegúrate de que la extensión aparece activada ✅ en la lista.
 
